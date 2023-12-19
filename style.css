@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+canvas {
+  display: block;
+  padding-left: 20%;
+}
+
+h2{
+  font-style: italic;
+  color: aliceblue;
+  text-align: center;
+}
